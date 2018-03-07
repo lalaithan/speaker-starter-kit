@@ -4,18 +4,20 @@ Resources for Technical Speakers
 
 ## How do I find out about CFPs? (calls for presenters)
 1. Search open CFPs on [Papercall](https://www.papercall.io/cfps).
+2. [HUGE list of software conferences](https://docs.google.com/spreadsheets/d/1QQu-el_aPBWFk6rDNbbrvBx819w-dPhHGB9tEVeiP5s/edit#gid=1428437774) (Thanks to [Heather Wilde](http://www.twitter.com/heathriel)! 👍). Separate list of [front-end conferences](https://github.com/benmvp/frontend-confs/blob/master/README.md).
 2. [Lanyrd](http://www.lanyrd.com)
 3. [Speaknet Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/speaknet) and [Speaknet Slack](https://speaknet.herokuapp.com/)
-4. Follow [@TheWeeklyCFP](http://www.twitter.com/theweeklycfp), [@mozTechCFPs](https://twitter.com/mozTechCFPs), [@callbackwomen](http://twitter.com/callbackwomen), and any conferences you're interested in on Twitter.
-5. Sign up for [Technically Speaking](http://www.techspeak.email) list.
-6. Sign up for [Community Megaphone](http://communitymegaphone.com/) and follow [@CommMegaphone](https://twitter.com/CommMegaphone).
-7. Subscribe to the mailing list of each conference you're interested in.
-8. When you watch a good conference video on YouTube, Vimeo, etc, note which conference it was and subscribe to their mailing list and follow them on Twitter.
-9. Join local [meetups](http://www.meetup.com).   
-10. When you attend conferences or meetups, ask people what conferences they attend.  
-11. Reach out to thought leaders and ask them which conferences they recommend.
-12. [A list of Hacker Worthy Conferences](https://github.com/watson/hacker-conferences)
-13. Consider trying [SpeakerMatch](https://www.speakermatch.com) - You can list yourself as a speaker for hire.
+4. [Conference Radar](https://conferenceradar.com)
+5. Follow [@TheWeeklyCFP](http://www.twitter.com/theweeklycfp), [@mozTechCFPs](https://twitter.com/mozTechCFPs), [@callbackwomen](http://twitter.com/callbackwomen), [SpeakerAlerts](https://twitter.com/SpeakerAlerts), and any conferences you're interested in on Twitter.
+6. Sign up for [Technically Speaking](http://www.techspeak.email) list.
+7. Sign up for [Community Megaphone](http://communitymegaphone.com/) and follow [@CommMegaphone](https://twitter.com/CommMegaphone).
+8. Subscribe to the mailing list of each conference you're interested in.
+9. When you watch a good conference video on YouTube, Vimeo, etc, note which conference it was and subscribe to their mailing list and follow them on Twitter.
+10. Join local [meetups](http://www.meetup.com).   
+11. When you attend conferences or meetups, ask people what conferences they attend.  
+12. Reach out to thought leaders and ask them which conferences they recommend.
+13. [A list of Hacker Worthy Conferences](https://github.com/watson/hacker-conferences)
+14. Consider trying [SpeakerMatch](https://www.speakermatch.com) - You can list yourself as a speaker for hire.
 
 
 ## How do I get accepted?
@@ -23,6 +25,7 @@ Resources for Technical Speakers
 2. [Tips to increase your acceptance rate](https://www.harihareswara.net/sumana/2016/03/29/0)
 3. [What I'm Looking For in a Talk Proposal](http://www.pewpewlaser.com/blogs/655)
 4. [What Your Conference Proposal Is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
+5. Get constructive feedback on your abstract before submitting to a CFP: [Help Me Abstract](http://helpmeabstract.com/)
 
 ## Got accepted? Great! Time to write the talk:
 1. [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
@@ -46,6 +49,7 @@ Note that some of the books below are available in audiobook format. If you don'
 7. [Start with Why](http://www.amazon.com/gp/product/1591846447/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591846447&linkCode=as2&tag=outlier-20&linkId=GLWQF6H2KUBGJR36) by Simon Sinek
 8. [Do You Talk Funny? 7 Comedy Habits to Become a Better (and Funnier) Public Speaker](http://www.amazon.com/gp/product/1505819296/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1505819296&linkCode=as2&tag=outlier-20&linkId=VJZDB4CA2KVCDXTN) by David Nihill
 9. [Speak to Win](http://www.amazon.com/gp/product/0814401570/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0814401570&linkCode=as2&tag=bitnatcom-20&linkId=7LZLFE4I5SQWJNYK) by Brian Tracy
+10. [The Storyteller's Spellbook: How to make your ideas more compelling and your career more magical](https://www.amazon.co.uk/dp/B073Q5X4BX/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by James Whittaker
 
 # Related Resources
 1. [speaking.io](http://speaking.io)
@@ -53,3 +57,4 @@ Note that some of the books below are available in audiobook format. If you don'
 3. [Speaker Style Bingo: 10 Presentation Anti-Patterns by Troy Hunt](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html)  
 4. [How To Become A Tech Conference Speaker](http://www.exceptionnotfound.net/how-to-become-a-tech-conference-speaker)
 5. [Awesome-speaking list](https://github.com/matteofigus/awesome-speaking)
+6. [Getting started with speaking - a guide for technical people by Christos Matskas](https://cmatskas.com/getting-started-with-public-speaking-a-guide-for-technical-people/)
